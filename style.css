@@ -1,0 +1,29 @@
+body{background-color:#000000;}
+h1{color: white;}
+.story{
+	padding: 1em;
+}
+img{
+	margin: 0 auto;
+}
+img{
+	display: inline-block;
+	height: 300px;
+	width: auto;
+}
+
+button{
+	font-size: 1.3em;
+	background: white;
+	margin:0.5em;
+}
+
+#offerings{
+
+}
+
+.full-size{
+	width: auto;
+	height: 100vh;
+}
+
